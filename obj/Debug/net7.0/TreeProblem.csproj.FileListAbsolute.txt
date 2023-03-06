@@ -1,0 +1,15 @@
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\bin\Debug\net7.0\TreeProblem.exe
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\bin\Debug\net7.0\TreeProblem.deps.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\bin\Debug\net7.0\TreeProblem.runtimeconfig.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\bin\Debug\net7.0\TreeProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\bin\Debug\net7.0\TreeProblem.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.csproj.AssemblyReference.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.AssemblyInfo.cs
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\refint\TreeProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\TreeProblem.genruntimeconfig.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\TreeProblem\obj\Debug\net7.0\ref\TreeProblem.dll
